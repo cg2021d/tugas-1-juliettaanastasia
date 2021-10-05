@@ -13,7 +13,6 @@ Sudut pandang kiri atas
 
 Sudut pandang belakang atas
 ![639B9D5C-F14A-4D65-8952-412BF49AC29D](https://user-images.githubusercontent.com/74484044/134143396-801c4828-271f-4f29-ac0d-4f9900591cc6.jpg)
-e16788fd5.jpg)
 
 Sudut pandang depan atas
 ![9FAE2A7F-6B97-436F-B0D1-26A48EB98FA3](https://user-images.githubusercontent.com/74484044/134143091-7bca55c5-ea86-4d4a-8b1e-487e16788fd5.jpg)
