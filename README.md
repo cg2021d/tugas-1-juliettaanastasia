@@ -3,7 +3,8 @@ tugas-1-juliettaanastasia created by GitHub Classroom
 
 Julietta Anastasia Rodiah Br Panjaitan - 05111940000033 - Grafkom D 2021
 
-Nama barang : Dimsum
+Nama barang : ```Dimsum```
+Link Deploy : https://juliettaanastasia.github.io/dimsum/
 
 Sudut pandang kanan atas
 ![C3540215-4A19-45B9-82D2-46FCE598BDFB](https://user-images.githubusercontent.com/74484044/134143536-c6bb4914-d1fc-42d8-ad51-2bc3b11d449c.jpg)
