@@ -1,5 +1,4 @@
 # tugas-1-juliettaanastasia
-tugas-1-juliettaanastasia created by GitHub Classroom
 
 Julietta Anastasia Rodiah Br Panjaitan - 05111940000033 - Grafkom D 2021
 
